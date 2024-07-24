@@ -1,6 +1,6 @@
 # Elshad Sabziyev
 
-## Control & Instrumentation Engineer
+## Process Automation Engineering student
 
 [Sumgayit, Azerbaijan](https://maps.app.goo.gl/noYZtbiCkaGEa4mFA) | [LinkedIn](https://www.linkedin.com/in/elshadsabziyev/) | [Portfolio](https://elshadsabziyev.me) |
 
