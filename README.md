@@ -101,7 +101,6 @@ Baku Higher Oil School, Azerbaijan
 
 - Received introductory training on the DeltaV distributed control system (DCS)
 - Learned about Safety Instrumented Systems (SIS) and Emergency Shutdown Systems (ESD)
-- Observed the configuration and testing of Foundation Fieldbus devices
 - Studied various types of control valves and smart positioners
 
 ---
