@@ -19,7 +19,7 @@ Baku Higher Oil School, Azerbaijan
 *Expected Graduation: 2025*  
 *GPA: 3.0*
 
-- Relevant Coursework: Control Theory, Process Control, MPUs & MCUs, Digital/Analog Electronics, Electrical Engineering, Devices, Materials & Machines, Robotics, HSE. 
+- Relevant Coursework: Signals And Systems, Control Theory, Process Control, MPUs & MCUs, Digital/Analog Electronics, Electrical Engineering, Devices, Materials & Machines, Robotics, HSE. 
 
 ---
 
