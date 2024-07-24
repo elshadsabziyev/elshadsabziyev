@@ -6,7 +6,7 @@
 
 ---
 
-## Professional Summary
+## Summary
 
 Process Automation Engineering student with a solid foundation in industrial control systems and embedded technologies. I have applied my theoretical knowledge in real-world settings through internships in oil refinery operations, water treatment, and process control. Having practical experince in PLC programming, control system design, and IoT applications, I am eager to learn more about developing efficient and safe automation solutions. With strong analytical skills and attention to detail, I am ready to use my academic knowledge and hands-on experience to contribute to future projects and improve operational efficiency in this sector. Looking forward to applying my skills in a professional setting and continuously learning to stay at the forefront of technological advancements.
 
